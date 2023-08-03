@@ -10,8 +10,8 @@ This can be done by cameras, other types of image sensors, LiDAR laser scanner t
 # 1-Install-ROS-on-Remote-PC:
 Open the terminal with Ctrl + Alt + T and enter below commands one at a time.
 In order to check the details of the easy installation script.
-...
 
+```
 $ sudo apt update
 
 $ sudo apt upgrade
@@ -22,7 +22,7 @@ $ chmod 755 ./install_ros_noetic.sh
 
 $ bash ./install_ros_noetic.sh
 
-...
+```
 
 
 
