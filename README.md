@@ -43,5 +43,15 @@ $ sudo apt-get install ros-melodic-joy ros-melodic-teleop-twist-joy \
   ros-melodic-gmapping ros-melodic-navigation ros-melodic-interactive-markers
 ```
 
-
+# 3-Install-TurtleBot3-Packages:
+Install TurtleBot3 via Debian Packages.
+```
+$ sudo apt install ros-melodic-dynamixel-sdk
+```
+```
+$ sudo apt install ros-melodic-turtlebot3-msgs
+```
+```
+$ sudo apt install ros-melodic-turtlebot3
+```
 
