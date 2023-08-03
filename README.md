@@ -11,6 +11,7 @@ This can be done by cameras, other types of image sensors, LiDAR laser scanner t
 Open the terminal with Ctrl + Alt + T and enter below commands one at a time.
 In order to check the details of the easy installation script.
 ...
+
 $ sudo apt update
 
 $ sudo apt upgrade
@@ -20,6 +21,7 @@ $ wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/instal
 $ chmod 755 ./install_ros_noetic.sh
 
 $ bash ./install_ros_noetic.sh
+
 ...
 
 
