@@ -14,12 +14,15 @@ In order to check the details of the easy installation script.
 ```
 $ sudo apt update
 ```
+
 ```
 $ sudo apt upgrade
 ```
+
 ```
 $ wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/install_ros_noetic.sh
 ```
+
 ```
 $ chmod 755 ./install_ros_noetic.sh
 ```
