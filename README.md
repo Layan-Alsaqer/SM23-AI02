@@ -128,3 +128,5 @@ $ rosrun map_server map_saver -f ~/map
 ![VirtualBox_Ross-s_03_08_2023_21_47_38](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/46f92aa9-65c7-4c62-8d76-3df41f660073)
 
 # 9-Testing:
+![VirtualBox_Ross-s_04_08_2023_01_49_15](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/8e5728cd-fdcd-4820-8c85-03c068f45dc8)
+
