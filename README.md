@@ -102,7 +102,8 @@ $ export TURTLEBOT3_MODEL=waffle
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 ```
 
-![VirtualBox_Ross-s_03_08_2023_21_37_47](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/3b4fd723-40bf-45a5-8ecb-37ecb295cedb)
+
+![VirtualBox_Ross-s_04_08_2023_01_37_53](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/b3ed32ce-a89e-4688-9eea-3d0503434cc8)
 
 # 7-Run Teleoperation Node:
 Open a new terminal from Remote PC with Ctrl + Alt + T and run the teleoperation node from the Remote PC.
