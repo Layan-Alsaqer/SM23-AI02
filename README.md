@@ -105,4 +105,11 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
 ![VirtualBox_Ross-s_03_08_2023_21_44_30](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/baa19523-e666-4cad-8091-f5ac17569294)
 
+# 8-Save Map:
+
+When the map is created successfully, open a new terminal from Remote PC with Ctrl + Alt + T and save the map.
+```
+$ rosrun map_server map_saver -f ~/map
+```
+![VirtualBox_Ross-s_03_08_2023_21_47_38](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/46f92aa9-65c7-4c62-8d76-3df41f660073)
 
