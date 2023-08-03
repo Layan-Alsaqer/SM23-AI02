@@ -1,4 +1,5 @@
 # SM23-AI02
+Use Turtlebot3 with SLAM approach to create and save a map
 ## SLAM Definition
 The SLAM (Simultaneous Localization and Mapping) is a technique to draw a map by estimating current location in an arbitrary space. The SLAM is a well-known feature of TurtleBot from its predecessors. The video here shows you how accurately TurtleBot3 can draw a map with its compact and affordable platform.
 
