@@ -30,7 +30,7 @@ $ chmod 755 ./install_ros_melodic.sh
 $ bash ./install_ros_melodic.sh
 ```
 
-#2-Install-Dependent-ROS-Packages:
+# 2-Install-Dependent-ROS-Packages:
 ```
 $ sudo apt-get install ros-melodic-joy ros-melodic-teleop-twist-joy \
   ros-melodic-teleop-twist-keyboard ros-melodic-laser-proc \
