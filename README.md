@@ -116,7 +116,8 @@ $ export TURTLEBOT3_MODEL=waffle
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 ```
 
-![VirtualBox_Ross-s_03_08_2023_21_44_30](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/baa19523-e666-4cad-8091-f5ac17569294)
+
+![VirtualBox_Ross-s_04_08_2023_01_43_53](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/b9304025-05c8-42ac-b7e3-af15017f5e9a)
 
 # 8-Save Map:
 
