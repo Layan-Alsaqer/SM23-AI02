@@ -61,6 +61,7 @@ $ sudo apt install ros-melodic-turtlebot3
 Install Simulation Package:
 
 The TurtleBot3 Simulation Package requires turtlebot3 and turtlebot3_msgs packages as prerequisite. 
+
 Without these prerequisite packages, the Simulation cannot be launched.
 
 Please follow the PC Setup instructions if you did not install required packages and dependent packages
@@ -76,6 +77,7 @@ $ cd ~/catkin_ws && catkin_make
 # 5-Launch Simulation World:
 
 Three simulation environments are prepared for TurtleBot3.
+
 Please select one of these environments to launch Gazebo.
 
 TurtleBot3 World
@@ -85,6 +87,8 @@ $ export TURTLEBOT3_MODEL=waffle
 ```
 $ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 ```
+![VirtualBox_Ross-s_04_08_2023_01_27_44](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/0437aa56-72d8-4910-9e97-21af840d448a)
+
 # 6-SLAM-Simulation:
 
 Open a new terminal from Remote PC with Ctrl + Alt + T and run the SLAM node.
