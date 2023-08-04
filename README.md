@@ -10,8 +10,9 @@ This video shows you how accurately TurtleBot3 can draw a map with its compact a
 This can be done by cameras, other types of image sensors, LiDAR laser scanner technology and even sonar.
 
 Essentially, any device that can be used to measure physical properties like location, distance or velocity that can be included as part of a SLAM system.
+![257771837-5a1c8326-727a-4a50-affe-c0ff74b63892](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/90eadf81-33db-4f5a-9615-6b3b5b479716)
 
-![VirtualBox_Ross-s_03_08_2023_20_23_26](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/073d3de7-8617-49be-8b98-24963bf52b07)
+
 
 # 1-Install-ROS-on-Remote-PC:
 Open the terminal with Ctrl + Alt + T and enter below commands one at a time.
