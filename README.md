@@ -2,9 +2,12 @@
 Use Turtlebot3 with SLAM approach to create and save a map
 ## SLAM Definition
 The SLAM (Simultaneous Localization and Mapping) is a technique to draw a map by estimating current location in a random space. 
+
 The SLAM is a well-known feature of TurtleBot from its predecessors.
-This video shows you how accurately TurtleBot3 can draw a map with its compact and affordable platform.
+
+
 This can be done by cameras, other types of image sensors, LiDAR laser scanner technology and even sonar.
+
 Essentially, any device that can be used to measure physical properties like location, distance or velocity that can be included as part of a SLAM system.
 
 # 1-Install-ROS-on-Remote-PC:
