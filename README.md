@@ -5,11 +5,13 @@ The SLAM (Simultaneous Localization and Mapping) is a technique to draw a map by
 
 The SLAM is a well-known feature of TurtleBot from its predecessors. 
 
-This video shows you how accurately TurtleBot3 can draw a map with its compact and affordable platform.
-
 This can be done by cameras, other types of image sensors, LiDAR laser scanner technology and even sonar.
 
 Essentially, any device that can be used to measure physical properties like location, distance or velocity that can be included as part of a SLAM system.
+
+
+
+This video shows you how accurately TurtleBot3 can draw a map with its compact and affordable platform.
 
 ![257771837-5a1c8326-727a-4a50-affe-c0ff74b63892](https://github.com/Layan-Alsaqer/SM23-AI02/assets/138806858/90eadf81-33db-4f5a-9615-6b3b5b479716)
 
